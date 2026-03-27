@@ -46,25 +46,6 @@ A full-stack **MERN-based E-commerce web application** with secure authenticatio
 - VS Code
 
 ---
-## 📁 Project Structure
-
-
-FOREVER-E-commerce-App/
-│
-├── frontend/ # React frontend
-│ ├── src/
-│ ├── public/
-│
-├── backend/ # Node + Express backend
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── middleware/
-│ └── config/
-│
-├── .gitignore
-├── README.md
----
 
 ## ⚙️ Installation & Setup
 
